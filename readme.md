@@ -6,12 +6,12 @@ Dataset содержит ряд сцен реального мира с цент
 Информация о представленных объектах
 ---
 
-| Называние | Изображение | Кол-во изображений | Кол-во точек | РАзмер файлов сцены 
-|-------|------|-------:|-------:|-----:|---|
-| cup | ![house1](/imgs/cup.jpg?raw=true "house1")  |     114 |  11 441 294 | 1,98GB 
-| cube_v1 | ![house2](/imgs/cube_v1.jpg?raw=true "house2")  |     164 |  12 058 256 | 971MB
-| cude_v2 | ![house3](/imgs/cude_v2.jpg?raw=true "house3")  |     94 |  11 495 490 | 1,29GB 
-| t_pose | ![house4](/imgs/t_pose.jpg?raw=true "house4")  |     101 |  12 901 822 | 1,33GB 
+| Название | Изображение | Кол-во изображений | Кол-во точек | Размер файлов сцены 
+|-------|------|-------:|-------:|-----:|
+| cup | ![cup](/images/cup.jpg?raw=true "cup")  |     114 |  11 441 294 | 1,98GB 
+| cube_v1 | ![cube_v1](/images/cube_v1.jpg?raw=true "cube_v1")  |     164 |  12 058 256 | 971MB
+| cude_v2 | ![cube_v2](/images/cube_v2.jpg?raw=true "cube_v2")  |     94 |  11 495 490 | 1,29GB 
+| t_pose | ![t_pose](/images/t_pose.jpg?raw=true "t_pose")  |     101 |  12 901 822 | 1,33GB 
 
 
 
